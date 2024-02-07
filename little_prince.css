@@ -1,0 +1,24 @@
+uline {
+    text-decoration: underline black;
+}
+highlight {
+    background: orange;
+}
+redtext {
+    color: red;
+    font-weight: 800;
+}
+.container {
+    max-width: 100%;
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+}
+
+.text {
+    width: 360px;
+    box-sizing: border-box;
+    text-wrap: normal;
+}
